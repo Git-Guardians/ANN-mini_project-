@@ -28,5 +28,4 @@ Conclusion:
 
 The project provides a comprehensive understanding of different ANN models and their learning mechanisms. By implementing these models, we gain insights into both supervised and unsupervised learning techniques and their real-world applications.
 
-If you want, I can also format this into a report, PPT, or add diagrams/code snippets.
 
