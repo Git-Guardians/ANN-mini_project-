@@ -8,7 +8,7 @@ Krishna
 
 Manvitha M. Salvankar
 
-Fathima Shoura
+Fathima Shaura
 
 Project Description:
 
