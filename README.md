@@ -1,10 +1,15 @@
 Project Title: Artificial Neural Network Models Implementation
 
 Team Members:
+
 Medini Bhat
+
 Krishna
+
 Manvitha M. Salvankar
+
 Fathima Shoura
+
 Project Description:
 
 This project focuses on the design, implementation, and analysis of fundamental Artificial Neural Network (ANN) models. The objective is to understand how neural networks learn patterns, classify data, and make predictions by simulating the working of the human brain.
@@ -23,9 +28,5 @@ This is an unsupervised learning model where neurons compete among themselves to
 3. Feedforward Neural Network
 
 A feedforward neural network consists of multiple layers (input, hidden, and output layers) where data flows in one direction—from input to output. It is widely used for solving complex problems such as classification and regression. The model uses backpropagation to adjust weights and improve accuracy.
-
-Conclusion:
-
-The project provides a comprehensive understanding of different ANN models and their learning mechanisms. By implementing these models, we gain insights into both supervised and unsupervised learning techniques and their real-world applications.
 
 
